@@ -90,7 +90,12 @@
                         <title>Document</title>
                     </head>
                     <body>
-                        
+                     <div>
+                          Hello First Page!
+                     </div>
+                     <a href="{{ route('sample') }}">
+                         新規ページへ
+                     </a> 
                     </body>
                     </html><!DOCTYPE html>
                     <html lang="en">
